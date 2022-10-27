@@ -1,0 +1,16 @@
+****************************************** EXERCISES OF CHAPTER 3/ USING THE SCALA SHELL Page 61 ***********************************************
+
+-------------------------------- AVAILABLE OPTIONS IN SCALA REPL ------------------------------------------------
+I use the folllowing options :
+ :save to save the session with the name saved_session_file.txt
+ :load to interpret lines in a file
+ :replay to reset the repl and replay all previous commands
+ :reset to initialize the repl state and forget all previous sessions
+ :silent to disable or enable automatic printing of results
+
+------------------------------------- SPARK SHELL COMMANDS -----------------------------------------------------
+
+After researching the spark-shell in Internet, we find that the same commands and features are available as well.
+
+------------------------------------ MEMORY USED BY SCALA SHELL ------------------------------------------------
+We control the memory used by the scala shell with this command scala -J-Xms256m -J-Xmx512m

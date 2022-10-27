@@ -1,0 +1,17 @@
+*********************************************** EXERCISES OF CHAPTER 4 / Page 72 *************************************************************
+
+----------------------------------------- QUESTION 1 --------------------------------------------------------------------
+When we try to create a variable of type Double and assign an integer value to it; it works. But the other way does not work.
+It is normal because Int can not contain a decimal and Int can be converted to decimal
+
+----------------------------------------- QUESTION 2 ---------------------------------------------------------------------
+When we crate a variable x and assign a value to it (10) and we create another variable variable y and assign y to x. After 
+changing the value of x the value of y does not change.
+This is explained by the concept pass by value and pass by reference.
+-Pass by value means that a copy of the actual paramater's value is made in memory, i.e. the caller and the callee have two 
+independent variables with the same value.
+-Pass by reference also called pass by address means to pass the reference of an argument in the calling function to the corresponding
+formal parameter of the called function so that a copy of the address of the actual parameter is made in memory.
+
+----------------------------------------------------- QUESTION 3 ---------------------------------------------------------------
+We can create multiple variables by using semicolon beetween variables.
