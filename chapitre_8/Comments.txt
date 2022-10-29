@@ -1,0 +1,13 @@
+************************************************************ EXERCISES CHAPTER 8 : FUNCTIONS Page 135 *********************************************************
+
+------------------------------------------------ FUNCTIONS Vs METHODS -------------------------------------------------------------
+Functions and methods in Scala represent similar concepts, but there are significant differences in how we use them.
+A funtion is a callable unit of code that can take a single parameter, a list of parameters or no parameters at all.
+A function can execute one or many statements and can return a value, a list of values or no values at all.
+Methods are essentially funtions that are parts of a class structure, can be overriden, and use a different syntax.
+Scala doen't allow us to define an anonymous method.
+
+------------------------------------------------ RECURSION --------------------------------------------------------------------------
+For a case of recursion, we will implement the factorial calculation.
+After searching, the recursive implementation need an extra method parameter to accumulate a temporal result between recursive calls,
+so we can use a decorative outer method (@tailrec).

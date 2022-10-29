@@ -1,0 +1,13 @@
+********************************************** DATA TYPES EXERCISES / CHAPTER 5 Page 76 ************************************************
+--------------------------------------------------------- NUMERIC TYPES / LIMITATIONS ------------------------------------------------
+- Int : this data type holds a numeric value of a maximum of 32 bits
+- Long : holds a numeric value of a maximum of 64 bits
+- Short : holds a numeric value of a maximum of 16 bits
+- Float : this data type is used to store real numbers, that including a fractional part. It holds a max length of 32 bits.
+- Double: It holds a max lentgh of 64 bits.
+
+It make sense to use one over the other when the number length is superior to 2 power max length / 2.
+
+--------------------------------------------------------- OPERATORS ON NUMERIC / PRECEDENCE ------------------------------------------------
+
+ In an expression, operators / and * will be executed before others. It is normal because, in mathematics, division and multiplication have priorities.

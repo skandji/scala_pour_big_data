@@ -1,0 +1,11 @@
+************************************************** BOOLEAN TYPE EXERCISES / Page 78 **************************************************
+
+---------------------------------------- DIFFERENT TYPES OF LOGICAL OPERATORS ---------------------------------------------
+The different types of logical operators available in scala are : ==, >, >=, <, <= and !=.
+
+---------------------------------------- BOOLEAN / Int --------------------------------------------------------------------
+When we try assign a Boolean variable to an Integer variable, we get an error.
+In Javascript for example, we can assign an integer variable to a boolean variable.
+
+--------------------------------------- ADDING TWO BOOLEAN ---------------------------------------------------------------
+When we try for adding two Boolean value, we get an error.

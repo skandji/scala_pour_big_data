@@ -1,0 +1,12 @@
+************************************************ EXERCISES / CHAPTER 6 Page 108 ******************************************
+
+------------------------------------------ QUESTION 1 --------------------------------------------------------
+Here are checking if a user is authorized and connected with default login and password.
+
+----------------------------------------- QUESTION 2 ---------------------------------------------------------
+When we assign the whole if/else blocks to a variable, the value returned is Unit().
+
+----------------------------------------- QUESTION 3 ---------------------------------------------------------
+With case statements in pattern matching, we have the same result.
+
+----------------------------------------- QUESTION 4 ---------------------------------------------------------

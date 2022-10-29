@@ -1,0 +1,17 @@
+************************************************ EXERCISES: TYPE CASTING / CHAPTER 5 Page 95*********************************************
+
+------------------------------ CONVERT DOUBLE TO INT ----------------------------------------------
+When we try to convert a Double (10.5), it will drop the portion of number after the decimal. Now we get an Int (10)
+
+------------------------------ TRY CONVERTING -----------------------------------------------------
+When we try to run "10".toInt, it works perfectly. But when we try to run "two".toInt, we get error.
+
+----------------------------- NULLS IN SCALA -----------------------------------------------------
+null: The reference types such as Objects and Strings can be null and the value types such as Int, Double, Long, etc,
+can not be null. The null in scala is analogous to the null in Java.
+
+Option: The Option in Scala is referred to a carrier of single or no element for a state type. When a method returns a value 
+which can even be null then Option is utilized i.e., the method defined returns an instance of an Option in place or returning 
+a single object or a null.
+The instance of an Option that is returned here can be an instance of Some class or None class in Scala where Some and None are 
+the children of Option class.
