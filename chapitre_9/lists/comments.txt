@@ -1,0 +1,7 @@
+********************************************************** EXERCISES LISTS / CHAPTER 9 Page 156 ******************************************************************
+
+------------------------------------------------------- LISTS OPERATIONS ---------------------------------------------
+When we do operations Union and Intersection of two lists, it return new instance.
+
+------------------------------------------------------- REDUCE FUNCTION ----------------------------------------------
+We have implemented the .mkString function with no argument. There are no separate charater between strings.

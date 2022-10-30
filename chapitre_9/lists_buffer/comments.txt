@@ -1,0 +1,3 @@
+************************************************* LISTBUFFERS / CHAPTER 9 Page 172 ***********************************************
+A ListBuffer is like an ArrayBuffer except that uses a linked list internally instead of an Array. ListBuffer works with a linear sequence
+and ArrayBuffer works with indexed sequence.

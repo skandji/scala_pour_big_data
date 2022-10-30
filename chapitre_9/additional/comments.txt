@@ -1,0 +1,13 @@
+********************************************** ADDITIONAL EXERCISES / CHAPTER 9 Page 177 **********************************************
+
+-------------------------------------- ARRAY IN SCALA ----------------------------------------------------------------------
+Array is a special kind of collection in Scala. It is a fixed size data structure that stores element of the same data type.
+It is easier than the other colllections that i studied in using.
+
+-------------------------------------- VECTOR IN SCALA ----------------------------------------------------------------------
+Vector is a new collection type in scala 2.8 that addresses the inefficiency for random access on lists. Vectors allow accessing
+any element of the list in "effectively" constant time. It is a larger constant than for access to the head of a list or for
+reading an element of an array, but it's a constant nonetheless.
+
+In the immutable collections, we can not append an element to collection but with vector, it is possible. We can append at the
+beginning or at the end.

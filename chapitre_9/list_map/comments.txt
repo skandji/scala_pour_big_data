@@ -1,0 +1,2 @@
+******************************************************** EXERCISES CHAPTER 9 | LISTS AND MAP FUNCTION *************************************************************
+We use the REPL that is why the path was changed in scala file.
