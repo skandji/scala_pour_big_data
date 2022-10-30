@@ -1,0 +1,14 @@
+******************************************************************************EXERCISES CHAPTER 11 / CLASSES AND PACKAGES Page 212********************************************************
+
+------------------------------------------------------------------ MAVEN REPOSITORY ------------------------------------------------------------------
+Maven is a software project management and comprehension tool. Based on th concept of a Project Object Model (POM), Maven can manage a project's build,
+reporting and documentation from a central piece of information.
+
+We use Maven with Scala through the scala-maven-plugin. The Scala-maven-plugin is used for compiling, testing, running and documenting scala code in maven.
+
+Maven is chiefly used for java-based projects, helping to download dependencies, which refers to the libraries or JAR files. The tool helps to get the right
+JAR files for each project as there may be different versions of separate packages.
+
+------------------------------------------------------------ OOP Composition -----------------------------------------------------------------------------
+Composition is OOPS is a fundamental concept and describes a class that refers to one or more objects of the other class instance variables.
+It drives the design of the application and lets us know how the application should evolve as there are new features getting added or any requirements change.

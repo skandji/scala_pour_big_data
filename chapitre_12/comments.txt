@@ -1,0 +1,8 @@
+**************************************************************** EXERCISES CHAPTER 12 / EXCEPTION HANDLING Page 232 ****************************************************************
+
+---------------------------------------------------------------- TRY/SUCCESS/FAILURE ----------------------------------------------------------------------
+The trio of classes named Try, Success and Failure work just like Option, Some and None, but with two nice features :
+ * Try makes it very simple to catch exceptions
+ * Failure contains the exception
+A cleaner way to handle exceptions is to use this trio. If the code succeeds, we return a Success object with the result and if 
+it fails, we pass the error in a Failure object.
